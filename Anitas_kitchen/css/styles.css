@@ -1,4 +1,12 @@
-.logo {
-	  background-image:url("../images/langing.jpg");
-
+div {
+	background-image: url("../images/landing.jpg");
 }
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
