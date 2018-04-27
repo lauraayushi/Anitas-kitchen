@@ -1,3 +1,4 @@
-img {
-	background-image: (../images/landing.jpg)
+.logo {
+	  background-image:url("../images/langing.jpg");
+
 }
