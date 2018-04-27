@@ -1,5 +1,5 @@
-div {
-	background-image: url("../images/landing.jpg");
+.logo {
+	  background-image: url("../images/landing.jpg");
 }
 
 .logo {
@@ -14,3 +14,20 @@ h2 {
 	text-align: center;
 }
 
+.img1 {
+	   background-image: url("../images/breakfast.jpg");
+	   height:260px;
+	   width: 280px;
+}
+
+.img2 {
+	  background-image: url("../images/lunch.jpg");
+	  height:260px;
+	  width:290px;
+}
+
+.img3 {
+	  background-image: url("../images/dinner.jpg");
+	  height:260px;
+	  width:290px;
+}
