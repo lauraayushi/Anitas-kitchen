@@ -1,5 +1,6 @@
 .logo {
 	  background-image: url("../images/landing.jpg");
+	  height:450px;
 }
 
 .logo {
@@ -14,20 +15,32 @@ h2 {
 	text-align: center;
 }
 
+.textbox1 {
+           background-color: white;
+}
+
+.textbox2 {
+	       background-color: grey;
+}
+
 .img1 {
 	   background-image: url("../images/breakfast.jpg");
-	   height:260px;
+	   height:180px;
 	   width: 280px;
+	   text-align: center;
 }
 
 .img2 {
 	  background-image: url("../images/lunch.jpg");
-	  height:260px;
+	  height:180px;
 	  width:290px;
+	  text-align: center;
 }
 
 .img3 {
 	  background-image: url("../images/dinner.jpg");
-	  height:260px;
+	  height:180px;
 	  width:290px;
+	  text-align: center;
 }
+
