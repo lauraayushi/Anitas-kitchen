@@ -18,6 +18,11 @@ h1 {
 
 h2 {
 	text-align: center;
+	color: gray;
+}
+
+strong {
+	   color: white;
 }
 
 #happyhour {
