@@ -15,14 +15,18 @@ h2 {
 	text-align: center;
 }
 
-.textbox1 {
-           background-color: white;
+#happyhour {
+	        background-color:lightgray;
+	        height:90px;
+	        width:280px;
 }
 
-.textbox2 {
-	       background-color: grey;
-}
+#partytime {
+	        background-color:tomato;
+	        height:90px;
+	        width:280px;
 
+}
 .img1 {
 	   background-image: url("../images/breakfast.jpg");
 	   height:180px;
@@ -40,7 +44,7 @@ h2 {
 .img3 {
 	  background-image: url("../images/dinner.jpg");
 	  height:180px;
-	  width:290px;
+	  width:285px;
 	  text-align: center;
 }
 
