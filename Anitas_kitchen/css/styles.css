@@ -22,12 +22,19 @@ h2 {
            background-color:lightgray;
            height:90px;
            width:280px;
+           padding:35px;
+           text-align: center;
+           font-size: 20px;
 }
 
 #partytime {
 	       background-color:tomato;
            height:90px;
            width:280px;
+           padding: 35px;
+           text-align: center;
+           font-size: 20px;
+           text-color: white;
 }
 
 .img1 {
@@ -46,6 +53,9 @@ h2 {
 	  width:290px;
 	  text-align: center;
 	  opacity: 0.5;
+	  font-style: Arial;
+	  font-size: 20px;
+	  padding: 85px;
 }
 
 .img3 {
@@ -53,5 +63,8 @@ h2 {
 	  height:180px;
 	  width:285px;
 	  text-align: center;
+	  font-style: Arial;
+	  font-size: 20px;
+	  padding: 85px;
 }
 
