@@ -2,6 +2,7 @@
 	  background-image: url("../images/landing.jpg");
 	  background-repeat: no-repeat;
 	  height:580px;
+	  padding: 50px;
 
 }
 
@@ -45,6 +46,7 @@ h2 {
 	   padding: 85px;
 	   font-style: Arial;
 	   font-size: 20px;
+	   color: white;
 }
 
 .img2 {
@@ -56,6 +58,7 @@ h2 {
 	  font-style: Arial;
 	  font-size: 20px;
 	  padding: 85px;
+	  color: white;
 }
 
 .img3 {
@@ -66,5 +69,6 @@ h2 {
 	  font-style: Arial;
 	  font-size: 20px;
 	  padding: 85px;
+	  color: white;
 }
 
