@@ -1,10 +1,13 @@
 .logo {
 	  background-image: url("../images/landing.jpg");
-	  height:450px;
+	  background-repeat: no-repeat;
+	  height:580px;
+
 }
 
 .logo {
 	  text-align: center;
+	  text-orientation: center;
 }
 
 h1 {
@@ -39,6 +42,7 @@ h2 {
 	  height:180px;
 	  width:290px;
 	  text-align: center;
+	  opacity: 0.5;
 }
 
 .img3 {
