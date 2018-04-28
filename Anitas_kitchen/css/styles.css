@@ -19,22 +19,25 @@ h2 {
 }
 
 #happyhour {
-	        background-color:lightgray;
-	        height:90px;
-	        width:280px;
+           background-color:lightgray;
+           height:90px;
+           width:280px;
 }
 
 #partytime {
-	        background-color:tomato;
-	        height:90px;
-	        width:280px;
-
+	       background-color:tomato;
+           height:90px;
+           width:280px;
 }
+
 .img1 {
 	   background-image: url("../images/breakfast.jpg");
 	   height:180px;
 	   width: 280px;
 	   text-align: center;
+	   padding: 85px;
+	   font-style: Arial;
+	   font-size: 20px;
 }
 
 .img2 {
