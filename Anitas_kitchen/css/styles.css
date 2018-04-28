@@ -1,7 +1,12 @@
+body {
+	  padding: displaynone;
+}
+
 .logo {
 	  background-image: url("../images/landing.jpg");
 	  background-repeat: no-repeat;
 	  padding: 60px;
+	  background-size:cover;
 }
 
 .logo {
@@ -40,8 +45,7 @@ strong {
        text-align: center;
        padding:35px;
        color: white;
-       width: 290px;
-           
+       width: 290px;           
 }
 
 .img1 {
@@ -73,5 +77,9 @@ strong {
 	  font-size: 20px;
 	  padding: 85px;
 	  color: white;
+}
+
+.images {
+	 margin:120px;
 }
 
