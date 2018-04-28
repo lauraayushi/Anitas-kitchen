@@ -1,3 +1,7 @@
+body {
+	  padding: dispay no-repeat;
+}
+
 .logo {
 	  background-image: url("../images/landing.jpg");
 	  background-repeat: no-repeat;
@@ -12,13 +16,13 @@
 
 h1 {
 	text-align: center;
-	color: gray;
+	color:white;
 	font-family:Times New Roman;
 }
 
 h2 {
 	text-align: center;
-	color: gray;
+	color:white;
 }
 
 strong {
