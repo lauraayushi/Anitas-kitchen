@@ -11,7 +11,7 @@ Amina offers from her cooking business.
 To set up the project,one will go to the internet server and type in the URL 
 which contains the project and hence the project will be setup.
 
-Link to the site 
+Link to the site https://lauraayushi.github.io/Anitas-kitchen/
 
 MIT License
 
