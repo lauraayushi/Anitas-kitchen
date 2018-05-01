@@ -73,17 +73,23 @@ strong {
 	  font-size: 20px;
 	  padding: 85px;
 	  color: white;
+	  width: 24.7%
 
 }
 
 .images1 {
 	      margin-top:50px;
 	      padding-right: 50px;
+}
 
+.text2 {
+	    direction: rtl;
+       
 }
 
 .images2 {
-	      margin-top: 50px;
+	      margin-top:100px;
+	      margin-bottom:50px;
 }
 
 h3 {
@@ -100,21 +106,120 @@ h4 {
 
 h5 {
 	font-size:22px;
-	margin-top:200px;
+	margin-top: 200px;	
 } 
+.fast-food strong {
+	              color: black;
+}
 
 h6 {
 	font-size: 22px;
 }
+.delicious-drinks {
+	               text-align: right;
+}
 
+.delicious-drinks strong {
+	                      color: black;
+}
 
+.panel {
+	   background-image: url("../images/foodsBg.jpg");
+	   width: auto;
+	   height: 468px;
+	   background-repeat: no-repeat;
+}
 
+.panel-body {
+	         background-color: white;
+	         padding: 60px;
+	         margin: 69px;
+}
 
+.nav-tabs{
+	      border-bottom: 0px;
+}
 
+.nav {
+	 padding-left: 69px;
+	 margin-bottom: -71px;
+}
+
+.customers {
+	        color: #f46842;
+	        text-align: center;
+}
+
+.customers strong {
+	              color: #f46842;
+	              text-align: center;
+}
+
+.about {
+	    text-align: center;
+}
+
+.about strong{
+	         color: #f46842;
+	         text-align: center;
+}
+
+.images3 {
+	      padding: 50px;
+	      float: 50px;
+}
+
+.btn_subscribe {
+	          border-style:none;
+	          background-color:#F15A29;
+	          padding:3px;
+	          border-radius:5px;
+}
 	            
+.pad {
+	 background-image: url("../images/subscribe.jpg");
+	 padding:5%;
+	 font-size:1.4em;
+}
 
+.food {
+	   text-align: center;
+	   padding-top: 20px;
+}
 
+.mail {
+	  margin-top:10%;
+	  margin-left:auto;
+	  margin-right:auto;
+	  width:40%;
+}
 
+.trans {
+	   border:1px solid white;
+	   background:rgb(0,0,0,0);
+	   color:white;
+}
 
+h6 {
+	text-align: center;
+}
 
+.pad1 {
+	    background-color: #F15A29;
+}
 
+.logo-white {
+	         text-align: center;
+	         padding: 100px;
+	         font-size: 40PX;
+}
+
+a {
+   color: white;
+}
+
+.images4 {
+	      background-color: #F15A29;
+}
+
+/*von\s css*/
