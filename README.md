@@ -11,8 +11,7 @@ https://lauraayushi.github.io/Anitas-kitchen/
 ## Technologies Used
 I used HTML and CSS.
 ## Support and contact details
-contact at royalsayushi@gmail.com
-##Known Bugs
+###Known Bugs
 The subscribe button for the webpage is currently not working since I did not use JavaScript as part of the languages.
 ### MIT License
 
