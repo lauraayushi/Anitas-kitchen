@@ -1,7 +1,7 @@
 .logo {
 	  background-image: url("../images/landing.jpg");
 	  background-repeat: no-repeat;
-	  padding: 60px;
+	  padding:115px;
 	  background-size:cover;
 }
 
@@ -23,6 +23,11 @@ h2 {
 
 strong {
 	   color: white;
+}
+
+.rower {
+	   margin-right: -5px;
+	   margin-left: -16px;
 }
 
 #row1 {
@@ -108,32 +113,54 @@ h5 {
 	font-size:22px;
 	margin-top: 200px;	
 } 
+
 .fast-food strong {
-	              color: black;
+	              color:tomato;
+}
+
+.Food {
+	   color: black;
 }
 
 h6 {
 	font-size: 22px;
 }
+
+.Drinks {
+	     color:black;
+}
+
 .delicious-drinks {
 	               text-align: right;
 }
 
 .delicious-drinks strong {
-	                      color: black;
+	                      color: tomato;
+}
+
+#num1 {
+	   background-color: white;
+       color:tomato;
+       border: 2px solid #f46842 /*Tomato*/
+}
+
+#num2 {
+	   background-color: white;
+       color:tomato;
+       border: 2px solid #f46842 /*Tomato*/
 }
 
 .panel {
 	   background-image: url("../images/foodsBg.jpg");
 	   width: auto;
-	   height: 468px;
+	   height:533px;
 	   background-repeat: no-repeat;
 }
-
+ 
 .panel-body {
 	         background-color: white;
-	         padding: 60px;
-	         margin: 69px;
+	         padding: 61px;
+	         margin: 84px;
 }
 
 .nav-tabs{
@@ -141,6 +168,7 @@ h6 {
 }
 
 .nav {
+	 padding-top:35px;
 	 padding-left: 69px;
 	 margin-bottom: -71px;
 }
@@ -155,6 +183,14 @@ h6 {
 	              text-align: center;
 }
 
+br {
+	text-align: center;
+}
+
+.George {
+	    color: tomato;
+}
+
 .about {
 	    text-align: center;
 }
@@ -166,7 +202,7 @@ h6 {
 
 .images3 {
 	      padding: 50px;
-	      float: 50px;
+	      text-align: center;
 }
 
 .btn_subscribe {
@@ -222,4 +258,3 @@ a {
 	      background-color: #F15A29;
 }
 
-/*von\s css*/
