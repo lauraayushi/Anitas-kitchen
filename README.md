@@ -7,7 +7,7 @@ Anitas Kitchen is a landing page about Anitas business where she is opening up a
 * git remote add 
 * cd index.html
 ## Link to live site 
-
+https://lauraayushi.github.io/Anitas-kitchen/
 ## Technologies Used
 I used HTML and CSS.
 ## Support and contact details
