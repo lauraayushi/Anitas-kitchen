@@ -1,21 +1,20 @@
-Anitas_Kitchen
----
-Author name-Laura Ayushi
+# ANITAS KITCHEN
+#### By **Laura Ayushi**
+## Description
+Anitas Kitchen is a landing page about Anitas business where she is opening up a restaurant
+## Setup/Installation Requirements
+* cd laura
+* git remote add 
+* cd index.html
+## Link to live site 
 
-The project is about creating a landing page for Anitas cooking business
-Which includes the food variety that Anita offers for her business.The 
-menu which is created as part of the project shows the wide varity of food
-Amina offers from her cooking business.
----
-##Set up instructions
-To set up the project,one will go to the internet server and type in the URL 
-which contains the project and hence the project will be setup.
-
-Link to the site https://lauraayushi.github.io/Anitas-kitchen/
-
-MIT License
-
-Copyright (c) 2018 lauraayushi
+## Technologies Used
+I used HTML and CSS.
+## Support and contact details
+contact at royalsayushi@gmail.com
+##Known Bugs
+The subscribe button for the webpage is currently not working since I did not use JavaScript as part of the languages.
+### MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -34,3 +33,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Copyright (c) {2018} **{Laura Ayushi}**
+  
+
