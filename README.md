@@ -10,9 +10,6 @@ Anitas Kitchen is a landing page about Anitas business where she is opening up a
 https://lauraayushi.github.io/Anitas-kitchen/
 ## Technologies Used
 I used HTML and CSS.
-## Support and contact details
-###Known Bugs
-The subscribe button for the webpage is currently not working since I did not use JavaScript as part of the languages.
 ### MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
